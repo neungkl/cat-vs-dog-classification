@@ -1,6 +1,6 @@
-# Cat and Dog
+# Cat vs Dog
 
-Cat and dog
+Cat vs dog
 
 ## License
 
