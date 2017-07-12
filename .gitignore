@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 src/data
 src/__pycache__
+src/_model
 **/*.pyc
