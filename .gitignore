@@ -2,4 +2,5 @@
 src/data
 src/__pycache__
 src/_model
+src/result
 **/*.pyc
