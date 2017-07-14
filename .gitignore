@@ -4,3 +4,4 @@ src/__pycache__
 src/_model
 src/result
 **/*.pyc
+.DS_Store
