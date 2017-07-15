@@ -52,7 +52,7 @@ It so sad that I can't run VGG-19 with my own computer, so I recommend you to ru
 Accuracy: 0.93 - 0.96875<br>
 Train steps: 11906
 
-## Version 2 (Log Loss)
+### Version 2 (Log Loss)
 
 Log Loss: 0.46664 (score from Kaggle submission, which is very high but I try to optimize it)<br>
 Train steps: 3567
