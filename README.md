@@ -19,6 +19,7 @@ An output is the number of classes of image, which is 2 for this task (cat & dog
 More description about VGG-19 [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
 
 ![vgg-19-model](images/vgg-19-preview.jpg)
+
 _Photo: VGG 19 model by [https://www.slideshare.net/ckmarkohchang/applied-deep-learning-1103-convolutional-neural-networks](https://www.slideshare.net/ckmarkohchang/applied-deep-learning-1103-convolutional-neural-networks)_
 
 There is a great example of VGG-19 implementation with TensorFlow (which is the resource for me to study) published in [Tensorflow-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
