@@ -6,7 +6,7 @@ The idea of task is proposed by [https://www.kaggle.com/c/dogs-vs-cats-redux-ker
 
 ![catdog](images/woof_meow.jpg)
 
-# Model
+## Model
 
 I have implemented the solutions with 2 alogrithms
 
@@ -43,7 +43,7 @@ The first version [cat-dog-classifier](src/cat-dog-classifier.ipynb) is use soft
 
 The second version [cat-dog-classifier-v2](src/cat-dog-classifier-v2.ipynb) is created for answer in [Kaggle competition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition), which requires answer to be probability of image, if the value is near 0, it's mean the input image is likely to be a cat, otherwise, it's likely to be a dog. The model evaluate using [log loss](https://www.kaggle.com/wiki/LogLoss) metric.
 
-# Result
+## Result
 
 It so sad that I can't run VGG-19 with my own computer, so I recommend you to run by yourself to see the result :D
 
@@ -59,7 +59,7 @@ Train steps: 3567
 
 The model already included in this repository, please feel free to test it.
 
-# Usage
+## Usage
 
 1. Clone this project
 2. `docker-compose up`
@@ -69,7 +69,7 @@ http://localhost:8888/?token=<TOKEN FORM TERMINAL>
 ```
 4. Have fun !
 
-## Model Usage
+### Model Usage
 
 I already uploaded my model to GitHub (`/model` folder). But it's uploaded with [GitHub LFS](https://git-lfs.github.com/) (Large file storage), so you can't use it immediately after clone project. _Except you use git-lfs by default_
 
@@ -80,6 +80,6 @@ For download model
 3. `git lfs pull`
 4. Check your `/model` folder to make sure your files are complete (The size of folder about ~400 MB)
 
-# License
+## License
 
 [MIT License](LICENSE) Copyright (c) 2017 Kosate Limpongsa
